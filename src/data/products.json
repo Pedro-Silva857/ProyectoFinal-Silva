@@ -1,0 +1,166 @@
+[
+    {
+        "id": 1,
+        "titulo": "Zenitsu",
+        "price": 800,
+        "categoria": "anime",
+        "img": "images/Zenitsu.png",
+        "stock": 20
+      
+    },
+    {
+        "id": 2,
+        "titulo":"Capitan America", 
+        "price": 1200, 
+        "categoria": "marvel", 
+        "img": "images/capi.png", 
+        "stock": 50
+        
+    },
+    {
+        "id": 3,
+        "titulo": "Chica Thor",
+        "price": 400,
+        "categoria": "marvel",
+        "img": "images/Chica Thor.png",
+        "stock": 20
+       
+    },
+    {
+        "id": 4,
+        "titulo": "Dr Strange y Black Widow ",
+        "price": 1200,
+        "categoria": "marvel",
+        "img": "images/Dr y Scarlet.png",
+        "stock": 1
+        
+    },
+    {
+        "id": 5,
+        "titulo": "Falcon",
+        "price": 200,
+        "categoria": "marvel",
+        "img": "images/Falcon.png",
+        "stock": 50
+    },
+    {
+        "id": 6,
+        "titulo": "Inuske",
+        "price": 900,
+        "categoria": "anime",
+        "img": "images/Inuske.png",
+        "stock": 10
+    },
+    {
+        "id": 7,
+        "titulo": "Flareon",
+        "price": 700,
+        "categoria": "pokemon",
+        "img": "images/flareon.png",
+        "stock": 15
+    },
+    {
+        "id": 8,
+        "titulo": "Tanjiro Comiendo",
+        "price": 300,
+        "categoria": "anime",
+        "img": "images/Tanjiro comiendo.png",
+        "stock": 40
+    },
+    {
+        "id": 9,
+        "titulo": "Thor",
+        "price": 900,
+        "categoria": "marvel",
+        "img": "images/Thor.png",
+        "stock": 12
+    },
+    {
+        "id": 10,
+        "titulo": "Vulpix",
+        "price": 700,
+        "categoria": "pokemon",
+        "img": "images/Vulpix.png",
+        "stock": 20
+    },
+    {
+        "id": 11,
+        "titulo": "Tomioka",
+        "price": 800,
+        "categoria": "anime",
+        "img": "images/Tomioka.png",
+        "stock": 15
+    },
+    {
+        "id": 12,
+        "titulo": "Rengoku",
+        "price": 1200,
+        "categoria": "anime",
+        "img": "images/Rengoku.png",
+        "stock": 20
+    },
+    {
+        "id": 13,
+        "titulo": "Loki",
+        "price": 200,
+        "categoria": "marvel",
+        "img": "images/Loki.png",
+        "stock": 45
+    },
+    {
+        "id": 14,
+        "titulo": "Loki",
+        "price": 800,
+        "categoria": "marvel",
+        "img": "images/Loki facha.png",
+        "stock": 10
+    },
+    {
+        "id": 15,
+        "titulo": "Sanemi",
+        "price": 1100,
+        "categoria": "anime",
+        "img": "images/Sanemi.png",
+        "stock": 5
+    },
+    {
+        "id": 16,
+        "titulo": "Pikachu",
+        "price": 2000,
+        "categoria": "pokemon",
+        "img": "images/pikachu.png",
+        "stock": 3
+    },
+    {
+        "id": 17,
+        "titulo": "Iron-Man",
+        "price": 800,
+        "categoria": "marvel",
+        "img": "images/Iron.png",
+        "stock": 10
+    },
+    {
+        "id": 18,
+        "titulo": "Iron-Man",
+        "price": 600,
+        "categoria": "marvel",
+        "img": "images/Iron Man.png",
+        "stock": 14
+    },
+    {
+        "id": 19,
+        "titulo": "Mitsuri",
+        "price": 300,
+        "categoria": "anime",
+        "img": "images/Mitsuri.png",
+        "stock": 14
+    },
+    {
+        "id": 20,
+        "titulo": "Dr. Strange",
+        "price": 1200,
+        "categoria": "marvel",
+        "img": "images/Dr, StrangeMuerto.png",
+        "stock": 14
+    }
+]
